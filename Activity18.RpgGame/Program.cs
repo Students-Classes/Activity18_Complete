@@ -5,3 +5,6 @@
 // TODO: El registro de Servicios no se hara aquí, se hará en un método estático de la clase ServiceCollectionExtensions que se encuentra en el proyecto Activity18.RpgGame/Startup/ServiceCollectionExtensions.cs
 
 // TODO: Una vez hayas hecho la implementación de la inyección de dependencias, deberás de obtener una instancia de la IRpgGame y llamar al método Start() para que la aplicación funcione correctamente. .
+
+
+Cons
