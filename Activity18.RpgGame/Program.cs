@@ -7,4 +7,3 @@
 // TODO: Una vez hayas hecho la implementación de la inyección de dependencias, deberás de obtener una instancia de la IRpgGame y llamar al método Start() para que la aplicación funcione correctamente. .
 
 
-Cons
