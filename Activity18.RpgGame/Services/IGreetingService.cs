@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Activity18.RpgGame.Services;
-public interface IMageService : IHeroService
+public interface IGreetingService
 {
-    int Power { get; set; }
+    void Run();
 }
